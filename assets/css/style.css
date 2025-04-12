@@ -1,0 +1,23 @@
+.rongali-bihu-container * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.rongali-bihu-container {
+    font-family: 'Noto Sans Assamese', sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    background: url('../images/bihu-animated.gif') no-repeat center center;
+    background-size: cover;
+    animation: backgroundPan 20s linear infinite;
+}
+
+/* Include all your original CSS styles here */
+/* ... */
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    /* Include all your responsive styles here */
+}
