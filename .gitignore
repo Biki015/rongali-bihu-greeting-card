@@ -1,0 +1,16 @@
+# WordPress
+/wp-content/
+/node_modules/
+/vendor/
+.DS_Store
+*.log
+*.sql
+*.zip
+*.tar.gz
+*.swp
+*.swo
+*.bak
+*.tmp
+*.idea
+*.vscode
+*.env
